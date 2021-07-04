@@ -1,0 +1,126 @@
+[
+  {
+    "title": "New resource!!!",
+    "description": "New resource 22",
+    "link": "New resource 22",
+    "priority": "1",
+    "timeToFinish": "1",
+    "createdAt": "2021-06-26T16:52:42.330Z",
+    "status": "complete",
+    "id": "1624726362330",
+    "activationTime": "2021-07-03T15:05:23.227Z"
+  },
+  {
+    "title": "My Super Resource UPDATED!",
+    "description": "My Super Resource",
+    "link": "My Super Resource",
+    "priority": "1",
+    "timeToFinish": 1,
+    "createdAt": "2021-06-26T16:26:14.245Z",
+    "status": "inactive",
+    "id": "1624724774245"
+  },
+  {
+    "title": "Reusable Components",
+    "description": "Reusable Components",
+    "link": "Reusable Components",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2021-06-26T15:48:36.257Z",
+    "status": "inactive",
+    "id": "1624722516257"
+  },
+  {
+    "title": "TESTING REVALIDATE UPDATED!",
+    "description": "Testring redirect",
+    "link": "Testring redirect",
+    "priority": "1",
+    "timeToFinish": 60,
+    "createdAt": "2021-06-24T16:45:45.303Z",
+    "status": "inactive",
+    "id": "1624553145303"
+  },
+  {
+    "title": "Testin save UPDATED!",
+    "description": "Testin save",
+    "link": "Testin save",
+    "priority": "1",
+    "timeToFinish": 1,
+    "createdAt": "2021-06-24T16:26:51.181Z",
+    "status": "complete",
+    "id": "1624552011181",
+    "activationTime": "2021-07-03T15:13:23.994Z"
+  },
+  {
+    "title": "First data title sdsdsd",
+    "description": "First data desc",
+    "link": "First data link",
+    "priority": "3",
+    "timeToFinish": "160",
+    "createdAt": "2021-06-24T16:14:23.047Z",
+    "status": "complete",
+    "id": "1624551263047",
+    "activationTime": "2021-07-03T15:20:04.531Z"
+  },
+  {
+    "id": "1",
+    "title": "Learning Singleton Pattern",
+    "createdAt": "2021-06-26T16:52:42.330Z",
+    "description": "I would like to learn singleton in JS language, it's important for my work",
+    "link": "https://link.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Resource 2",
+    "createdAt": "2021-06-26T16:52:42.330Z",
+    "description": "Resource 2 Desc",
+    "link": "https://link.com",
+    "priority": 2,
+    "timeToFinish": 1,
+    "status": "complete",
+    "activationTime": "2021-07-04T14:22:01.882Z"
+  },
+  {
+    "id": "3",
+    "title": "Resource 3",
+    "createdAt": "2021-06-26T16:52:42.330Z",
+    "description": "Resource 3 Desc",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive"
+  },
+  {
+    "title": "Meaningful data title",
+    "description": "Meaningful data title desc",
+    "link": "just some link",
+    "priority": "1",
+    "timeToFinish": "100",
+    "createdAt": "2021-06-24T16:12:11.652Z",
+    "status": "inactive",
+    "id": "1624551131652"
+  },
+  {
+    "title": "Meaningful data COPY",
+    "description": "Meaningful data title COPY",
+    "link": "just some link COPY",
+    "priority": "1",
+    "timeToFinish": "100",
+    "createdAt": "2021-06-24T16:12:11.652Z",
+    "status": "inactive",
+    "id": "new-resource"
+  },
+  {
+    "title": "Fallback false",
+    "description": "Fallback false",
+    "link": "Fallback false",
+    "priority": "1",
+    "timeToFinish": "100",
+    "createdAt": "2021-06-24T16:12:11.652Z",
+    "status": "inactive",
+    "id": "my-new-id"
+  }
+]
